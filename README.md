@@ -1,28 +1,22 @@
-# 90-Day Cybersecurity Study Plan
+## خطة لدراسة الأمن السيبراني خلال 90 يوم
 
-## Day 1-7: Network+
-- Watch videos from Professor Messer's N10-008 Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G
-- Complete any related practice questions or exercises.
+## من يوم 1 إلى 7 : تعلم الNetwork+
+- تابع كورس الدكتور Messer على يوتيوب: https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G
+- قم باكمال أية تمارين، وأجب على اي أسئلة مطلوبة.
 
-## Day 8-14: Security+
-- Watch videos from Professor Messer's SYO-601 Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8
-- Complete any related practice questions or exercises.
+## من يوم 8 إلى 14: تعلّم الSecurity+
+- تابع كورس الدكتور Messer على يوتيوب: https://youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8
+- قم باكمال أية تمارين، وأجب على اي أسئلة مطلوبة.
 
-## Day 15-28: Linux
-- Follow the tutorials on Ryan's Tutorials: https://ryanstutorials.net/linuxtutorial/
-- Take the Linux course on EdX: https://edx.org/learn/linux
-- Read through the Linux Documentation Project (LDP): http://tldp.org
+## من يوم 15 إلى 28: تعلّم Linux
+- تابع الدروس على موقع ريان: https://ryanstutorials.net/linuxtutorial/
+- أو خذ كورس من منصة Edx من https://edx.org/learn/linux
+- أو اقرأ الوثائق الرسمية الخاصة بالمشروع: http://tldp.org
 
-## Day 29-42: Python
+## من يوم 29 إلى 42: تعلّم لغة Python
 - https://www.hackerrank.com/domains/python
-- Complete Codecademy's Learn Python Track: https://codecademy.com/learn/learn-python
-- Python.org: https://www.w3schools.com/python/
 - Real Python: https://realpython.com/
-- Talk Python to Me: https://talkpython.fm/
 - Read "Learn Python the Hard Way": https://learnpythonthehardway.org
-- Hackerrank
-### Youtube Course:
-- https://www.youtube.com/watch?v=egg-GoT5iVk&ab_channel=TheCyberMentor
 
 
 ## Day 43-56: Traffic Analysis
